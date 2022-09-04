@@ -9,7 +9,7 @@
 }
 
 .imagenindex {
-  background-image: url("../images/index7.jpg");
+  background-image: url("../assets/images/index7.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -18,7 +18,7 @@
   
 }
 .imagenindexempresa {
-  background-image: url("../images/empresa4.jpg");
+  background-image: url("../assets/images/empresa4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -31,7 +31,7 @@
 }
 
 .imagenindexservicios {
-  background-image: url("../images/index7.jpg");
+  background-image: url("../assets/images/index7.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -44,7 +44,7 @@
 }
 
 .imagenindexcontacto {
-  background-image: url("../images/contacto1.webp");
+  background-image: url("../assets/images/contacto1.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -60,10 +60,7 @@
   font-weight: bold;
 }
 
-.hero {
-  background-image: url("../images/fondo\ taller\ 2.jpg");
-  height: 90vh;
-}
+
 
 .cardimage {
   height: 200px;
