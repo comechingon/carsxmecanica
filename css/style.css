@@ -8,6 +8,32 @@
   font-family: "Figtree", sans-serif;
 }
 
+.navbar-nav a:hover {
+  text-decoration: underline double; 
+}
+
+.container-fluid a {
+  transition: all 1s;
+}
+
+
+
+.navbar-brand:hover {
+  transform: scale(1.1);
+  
+
+}
+
+.card-body ::selection {
+  background-color: #b3a920;
+}
+
+.colortextempresa ::selection {
+  background-color: #b3a920;
+}
+
+
+
 .imagenindex {
   background-image: url("../assets/images/index7.jpg");
   background-repeat: no-repeat;
@@ -72,7 +98,7 @@
 }
 
 .footer {
-  background-color: #e7d914;
+  background-color:#f8e808;
   text-align: center;
   padding: 8px;
   justify-content: center;
