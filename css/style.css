@@ -14,8 +14,6 @@
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
- 
-  
 }
 
 .navbar-nav a:hover {
@@ -26,12 +24,8 @@
   transition: all 1s;
 }
 
-
-
 .navbar-brand:hover {
   transform: scale(1.1);
-  
-
 }
 
 .card-body ::selection {
@@ -57,8 +51,7 @@
   /*Footer abajo siempre cuando el body tiene poco contenido*/
   display: grid;
   min-height: 100vh;
-  grid-template-rows: auto 1fr auto;
-  
+  grid-template-rows: auto 1fr auto;  
 }
 
 .colortextempresa ::selection {
@@ -69,10 +62,7 @@
   color: #f8e808;
   font-weight: bold;
 }
-
 /**/
-
-
 .imagenindexservicios {
   background-image: url("../assets/images/index7.jpg");
   background-repeat: no-repeat;
@@ -82,12 +72,9 @@
   /*Footer abajo siempre cuando el body tiene poco contenido*/
   display: grid;
   min-height: 100vh;
-  grid-template-rows: auto 1fr auto;
-  
+  grid-template-rows: auto 1fr auto;  
 }
-
 /**/
-
 .imagenindexcontacto {
   background-image: url("../assets/images/contacto1.webp");
   background-repeat: no-repeat;
@@ -99,7 +86,6 @@
   min-height: 100vh;
   grid-template-rows: auto 1fr auto;
 }
-
 
 .footer {
   background-color:#f8e808;
