@@ -1,0 +1,18 @@
+.container {
+    .bgimage {
+        background-color: #f8e808;
+        .cardimage {
+            height: 200px;
+            margin: 10px;
+          }
+
+        .card-body ::selection {
+            background-color: #b3a920;
+          }   
+      }
+    
+
+
+
+
+}
