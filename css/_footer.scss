@@ -4,3 +4,15 @@
     padding: 8px;
     justify-content: center;
   }
+
+  $redes: (
+  facebook: blue,
+  instagram: rgb(194, 11, 42),
+  whatsapp: green,
+ );
+
+ @each $redsocial, $color in $redes {
+  .fa-#{$redsocial} {
+    background-color: $color;
+  }
+}
