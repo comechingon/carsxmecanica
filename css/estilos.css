@@ -68,6 +68,18 @@ body.imagenindexcontacto {
   justify-content: center;
 }
 
+.fa-facebook {
+  background-color: blue;
+}
+
+.fa-instagram {
+  background-color: rgb(194, 11, 42);
+}
+
+.fa-whatsapp {
+  background-color: green;
+}
+
 .colortextempresa {
   color: #f8e808;
   font-weight: bold;
