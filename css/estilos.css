@@ -110,4 +110,10 @@ body.imagenindexcontacto {
 }
 .fa-facebook:hover, .fa-whatsapp:hover, .fa-instagram:hover {
   background-color: aliceblue;
+}
+
+/*probando mixin*/
+.form-label {
+  width: 40px;
+  height: 40px;
 }/*# sourceMappingURL=estilos.css.map */
