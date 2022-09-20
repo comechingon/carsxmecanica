@@ -69,15 +69,15 @@ body.imagenindexcontacto {
 }
 
 .fa-facebook {
-  background-color: blue;
+  background-color: rgb(0, 162, 255);
 }
 
 .fa-instagram {
-  background-color: rgb(194, 11, 42);
+  background-color: rgb(199, 119, 70);
 }
 
 .fa-whatsapp {
-  background-color: green;
+  background-color: rgb(81, 190, 38);
 }
 
 .colortextempresa {
@@ -100,4 +100,14 @@ body.imagenindexcontacto {
 .container-fluid .navbar-nav a:hover {
   -webkit-text-decoration: underline double;
           text-decoration: underline double;
+}
+
+.fa-facebook, .fa-whatsapp, .fa-instagram {
+  width: 30px;
+  height: 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.fa-facebook:hover, .fa-whatsapp:hover, .fa-instagram:hover {
+  background-color: aliceblue;
 }/*# sourceMappingURL=estilos.css.map */

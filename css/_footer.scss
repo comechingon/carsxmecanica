@@ -6,9 +6,9 @@
   }
 
   $redes: (
-  facebook: blue,
-  instagram: rgb(194, 11, 42),
-  whatsapp: green,
+  facebook: rgb(0, 162, 255),
+  instagram: rgb(199, 119, 70),
+  whatsapp: rgb(81, 190, 38),
  );
 
  @each $redsocial, $color in $redes {
@@ -16,3 +16,11 @@
     background-color: $color;
   }
 }
+
+.fa-facebook, .fa-whatsapp, .fa-instagram {
+  @extend %iconos;
+}
+  
+
+
+
