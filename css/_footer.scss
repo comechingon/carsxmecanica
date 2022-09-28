@@ -5,7 +5,7 @@
     justify-content: center;
   }
 
-  /*probando map y extend placeholder(variables)
+  /*probando map y extend placeholder(variables)*/
   $redes: (
   facebook: rgb(138, 166, 219),
   instagram: rgb(196, 157, 145),
@@ -21,7 +21,7 @@
 .fa-facebook, .fa-whatsapp, .fa-instagram {
   @extend %iconitos;
 }
-*/
+
 
   
 
